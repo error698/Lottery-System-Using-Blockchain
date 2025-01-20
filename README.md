@@ -1,7 +1,3 @@
-Here's the updated **Blockchain-Based Lottery System Documentation** in the requested format:
-
----
-
 **Blockchain-Based Lottery System**
 
 ---
