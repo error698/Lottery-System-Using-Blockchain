@@ -1,4 +1,5 @@
 **Blockchain-Based Lottery System Documentation**
+
 **Introduction**
 The Blockchain-Based Lottery System is a decentralized application (DApp) designed to create a transparent, secure, and tamper-proof platform for conducting lotteries. By leveraging blockchain technology, the system ensures fairness in the lottery process while providing participants with a seamless experience through cryptocurrency payments and smart contracts.
 
